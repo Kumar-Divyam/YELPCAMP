@@ -1,0 +1,23 @@
+.img-thumbnail img{
+    width: 100%;
+}
+
+.jumbotron{
+    margin-top: 0.5vmin;
+}
+
+.img-thumbnail{
+    padding: 0;
+}
+
+.img-thumbnail .figure-caption{
+    padding: 9px;
+}
+
+#delete-form {
+    display: inline;
+}
+
+#flashMessage{
+    margin-top: 8vh;
+}
